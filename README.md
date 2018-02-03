@@ -4,7 +4,6 @@ Dataset can be found on [This site](https://www.kaggle.com/c/ultrasound-nerve-se
 and full analysis can be viewd in the ipynb file, including preprocess of raw image data
 
 ## Requirements
-#### Tensorflow 1.2
 ```
 python 3.5
 tensorflow 1.2
