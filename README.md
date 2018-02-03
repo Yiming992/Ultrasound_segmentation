@@ -3,7 +3,7 @@ Build a customized model that can identify nerve structures in a dataset of ultr
 Dataset can be found on [This site](https://www.kaggle.com/c/ultrasound-nerve-segmentation)
 and full analysis can be viewd in the ipynb file, including preprocess of raw image data
 
-## Requirement
+## Requirements
 #### Tensorflow 1.2
 ```
 python 3.5
